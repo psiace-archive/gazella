@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-<a href="https://github.com/psiace/gazella/" target="_blank"><img src="assets/logo.png" alt="Gazella" style="width: 50%; max-width: 256px; display: block; margin: auto;"></a>
+<a href="https://github.com/psiace/gazella/" target="_blank"><img width="256" height="256" src="assets/logo.png" alt="Gazella"></a>
 </div>
 
 # Gazella: A Nano GPT-style Model
@@ -12,4 +12,4 @@ This is the repo for the Gazella project, which aims to build and share a nano G
 
 > Gazelles are known as swift animals.
 
-[Gazelle - Wikipedia]: https://en.wikipedia.org/wiki/Gazelle
+[gazelle - wikipedia]: https://en.wikipedia.org/wiki/Gazelle
