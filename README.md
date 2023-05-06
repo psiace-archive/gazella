@@ -8,7 +8,7 @@ This is the repo for the Gazella project, which aims to build and share nano GPT
 
 You'll find in this repo:
 
-- `gazella/` - source code for models
+- `src/gazella/` - source code for models
 - `scripts/` - scripts to run LLM workloads
   - `data/` - prepare data
   - `train/` - train or finetune models

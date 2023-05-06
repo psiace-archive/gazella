@@ -5,13 +5,11 @@ description = "Gazella: Nano GPT-style Models"
 authors = [
     {name = "Chojan Shang", email = "psiace@outlook.com"},
 ]
-dependencies = [
-    "torch>=2.0.0",
-]
+dependencies = ["torch~=2.0.0"]
 requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "Apache-2.0"}
 
 [build-system]
-requires = ["pdm-pep517>=1.0"]
-build-backend = "pdm.pep517.api"
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
